@@ -1,0 +1,20 @@
+h1 {
+    padding: 50px;
+    margin-top: 50px;
+    height: 50vh;
+    text-align: center;
+    border: dashed 10px rgb(32, 33, 36);
+    /* background-color: salmon; */
+    color: rgb(32, 33, 36);
+}
+
+body {
+    background-color: salmon;
+    /* background-color: rgb(32, 33, 36); */
+    margin: 30px;
+}
+
+img {
+    border: dashed 3px rgb(32, 33, 36);
+    box-shadow: 0px 0px 20px rgb(229, 99, 82);
+}
